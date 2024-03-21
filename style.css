@@ -215,4 +215,9 @@ main {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .article2__button {
+    margin: 0;
+    margin-bottom: 1em;
+  }
 }
