@@ -1,0 +1,12 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+:root {
+  --white-primary: hsl(0, 0%, 100%);
+  --lightgray-primary: hsl(212, 45%, 89%);
+  --grayishblue-primary: hsl(220, 15%, 55%);
+  --darkblue-primary: hsl(218, 44%, 22%);
+}
